@@ -1,7 +1,7 @@
 # Chapprone_webApplication
 ```Clone a repo :git clone https://github.com/Yergalem1/Chapprone_webApplication
 Login to your firebase account
-firebase login
+     - firebase login
 Go to the root folder and initialize your firebase project
      -firebase init
 Follow the following  steps to initialize the Firebase project 
