@@ -16,9 +16,10 @@ Follow the following  steps to initialize the Firebase project
 Navigate to the functions folder 
    -Install all the dependencies: npm install
    -Create .env file and put MongoDB connection string
+   - Make sure to connect your mongdb 
    - Run server: npm run serve 
 Navigate to frontEnd/react_csv folder
 - Install all the dependencies: npm install
 - Start React app: npm start 
-- Make sure to connect your mongdb 
+
 
